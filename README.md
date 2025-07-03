@@ -21,18 +21,12 @@
 ---
 
 <h3>🔗 Connect with me</h3>
-📎 Tip: To keep this page open, Ctrl+Click links to open in a new tab
-<a href="https://www.linkedin.com/in/manishapadole/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+**Tip:** To keep this page open, Ctrl+Click (or ⌘+Click on Mac) any link below to open it in a new tab
 
-<a href="https://github.com/manishapadole14" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manishapadole)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/manishapadole14)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:manishapadole14@gmail.com)
 
-<a href="mailto:manishapadole14@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-</a>
 
 ---
 

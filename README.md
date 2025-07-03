@@ -39,5 +39,5 @@
 
 ---
 
-✨ Let’s learn, build, and grow — one step at a time!  <br>
+✨ Let’s learn, build, and grow — one step at a time!<br>
 <img src="https://komarev.com/ghpvc/?username=manishapadole14&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

@@ -21,7 +21,7 @@
 ---
 
 <h3>🔗 Connect with me</h3>
-
+📎 Tip: To keep this page open, Ctrl+Click links to open in a new tab
 <a href="https://www.linkedin.com/in/manishapadole/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
